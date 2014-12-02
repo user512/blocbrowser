@@ -177,7 +177,7 @@
     self.backButton.enabled = [self.webview canGoBack];
     self.forwardButton.enabled = [self.webview canGoForward];
     self.stopButton.enabled = self.frameCount > 0;
-    self.reloadButton.enabled = !self.frameCount == 0;
+    self.reloadButton.enabled = self.frameCount == 0;
 }
 
 @end
