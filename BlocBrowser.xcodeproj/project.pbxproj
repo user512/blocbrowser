@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F01C98F1A2EBE5A009CA102 /* AwesomeFloatingToolbar.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F01C98E1A2EBE5A009CA102 /* AwesomeFloatingToolbar.m */; };
 		2FBC0F281A2C55420094E84B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FBC0F271A2C55420094E84B /* main.m */; };
 		2FBC0F2B1A2C55420094E84B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FBC0F2A1A2C55420094E84B /* AppDelegate.m */; };
 		2FBC0F2E1A2C55420094E84B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2FBC0F2D1A2C55420094E84B /* ViewController.m */; };
@@ -25,6 +26,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F01C98E1A2EBE5A009CA102 /* AwesomeFloatingToolbar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AwesomeFloatingToolbar.m; sourceTree = "<group>"; };
+		2F01C9901A2EBE7F009CA102 /* AwesomeFloatingToolbar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AwesomeFloatingToolbar.h; sourceTree = "<group>"; };
 		2FBC0F221A2C55420094E84B /* BlocBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlocBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FBC0F261A2C55420094E84B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2FBC0F271A2C55420094E84B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +84,8 @@
 				2FBC0F2A1A2C55420094E84B /* AppDelegate.m */,
 				2FBC0F2C1A2C55420094E84B /* ViewController.h */,
 				2FBC0F2D1A2C55420094E84B /* ViewController.m */,
+				2F01C9901A2EBE7F009CA102 /* AwesomeFloatingToolbar.h */,
+				2F01C98E1A2EBE5A009CA102 /* AwesomeFloatingToolbar.m */,
 				2FBC0F321A2C55420094E84B /* Images.xcassets */,
 				2FBC0F251A2C55420094E84B /* Supporting Files */,
 			);
@@ -215,6 +220,7 @@
 				2FBC0F2E1A2C55420094E84B /* ViewController.m in Sources */,
 				2FBC0F2B1A2C55420094E84B /* AppDelegate.m in Sources */,
 				2FBC0F281A2C55420094E84B /* main.m in Sources */,
+				2F01C98F1A2EBE5A009CA102 /* AwesomeFloatingToolbar.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
