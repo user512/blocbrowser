@@ -110,7 +110,6 @@
     UIView *subview = [self hitTest:location withEvent:event];
     return (UILabel *)subview;
 }
-
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event {
     UILabel *label = [self labelFromTouches:touches withEvent:event];
     

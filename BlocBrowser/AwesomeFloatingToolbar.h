@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+
 @class AwesomeFloatingToolbar;
 
 @protocol AwesomeFloatingToolbarDelegate <NSObject>
